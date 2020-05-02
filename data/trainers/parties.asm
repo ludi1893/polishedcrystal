@@ -1498,7 +1498,7 @@ Lyra1Group:
 	db "Lyra@"
 	db TRAINERTYPE_NICKNAME
 	; party
-	db 5, TOTODILE, "Toto@"
+	db 4, TOTODILE, "Toto@"
 	db -1 ; end
 
 ; ================
